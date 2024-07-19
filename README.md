@@ -73,17 +73,9 @@ Welcome to our Brain Tumour Detection Model developed during the AI Unite Hackat
 
 ℹ️ Our model is based on convolutional neural networks (CNNs) trained on a dataset of MRI images labeled with tumor presence or absence. We achieved an accuracy of 89% on our test dataset. The model utilizes segmentation techniques to identify and classify brain tumors from MRI scans.
 
-## Contribution Guidelines
-
-🤝 We welcome contributions from the community! Whether it's improving the model, enhancing the UI/UX, or optimizing the codebase, we appreciate all efforts. Feel free to fork the repository, make improvements, and submit pull requests.
-
 ## License
 
 📝 This project is licensed under the [MIT License](https://github.com/arnab-4/BrainScan-AI/blob/main/LICENSE) - see the LICENSE file for details.
-
-## Acknowledgements
-
-🙏 We would like to express our gratitude to the organizers of the AI Unite Hackathon for providing this platform to showcase our work. Additionally, we extend our thanks to the dataset providers and the open-source community for their invaluable contributions.
 
 ---
 
