@@ -16,7 +16,7 @@ const animationVariants = {
   visible: { opacity: 1, y: 0 },
 };
 
-const serverLink = "http://127.0.0.1:5000/";
+const serverLink = "https://brainscan-ai-1.onrender.com";
 
 function Detection() {
   const [selectedImage, setSelectedImage] = useState(null);
