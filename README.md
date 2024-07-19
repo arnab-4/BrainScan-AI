@@ -1,6 +1,4 @@
-Certainly! Here's an enhanced and more interactive version of your README.md file, with updated formatting, icons, and author attribution:
 
-```markdown
 # Brain Tumour Detection Model 🧠
 
 Welcome to our Brain Tumour Detection Model developed during the AI Unite Hackathon by team nvAI! Our project utilizes Machine Learning, Computer Vision, and Segmentation techniques to detect brain tumors from MRI images.
