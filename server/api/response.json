@@ -1,0 +1,1 @@
+{"inference_id": "48a156fc-85a2-4e7a-a6d6-d1aacb71c7bf", "time": 0.048213278000048376, "image": {"width": 180, "height": 218}, "predictions": [{"x": 53.0, "y": 108.0, "width": 94.0, "height": 88.0, "confidence": 0.9180044531822205, "class": "yes", "class_id": 0, "detection_id": "2debdff7-fda8-497a-b328-050983a5f87a"}]}

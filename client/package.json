@@ -1,0 +1,36 @@
+{
+  "name": "brainscope",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@splinetool/react-spline": "^4.0.0",
+    "axios": "^1.7.2",
+    "flowbite-react": "^0.10.1",
+    "framer-motion": "^11.3.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-just-parallax": "^3.1.16",
+    "react-router-dom": "^6.25.0",
+    "react-toastify": "^10.0.5",
+    "scroll-lock": "^2.1.5",
+    "typewriter-effect": "^2.21.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.7",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.3"
+  }
+}
