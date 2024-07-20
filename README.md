@@ -239,8 +239,6 @@ Welcome to our Brain Tumour Detection Model developed during the AI Unite Hackat
 
 [![Brain Tumour Detection Model Video](https://youtu.be/zPXvp4Q6L2o/0.jpg)](https://youtu.be/zPXvp4Q6L2o)
 
-Replace `YOUR_VIDEO_ID_HERE` with the actual YouTube video ID of your project demonstration. You can also customize the `0.jpg` portion of the URL with your preferred image URL or let YouTube generate one automatically.
-
 ## License
 
 📝 This project is licensed under the [MIT License](https://github.com/arnab-4/BrainScan-AI/blob/main/LICENSE) - see the LICENSE file for details.
