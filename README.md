@@ -31,6 +31,8 @@ Welcome to our Brain Tumour Detection Model developed during the AI Unite Hackat
   ]
 }
 
+```
+
 ## Technologies Used
 
 ### Frontend
