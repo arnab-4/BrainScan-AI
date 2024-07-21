@@ -1,6 +1,4 @@
-Your README file structure looks well-organized! Adding a video section to showcase your Brain Tumour Detection Model is indeed a great idea for providing a visual overview. Here’s how you can integrate the video section into your README:
 
-```markdown
 # Brain Tumour Detection Model 🧠
 
 Welcome to our Brain Tumour Detection Model developed during the AI Unite Hackathon by team nvAI! Our project utilizes Machine Learning, Computer Vision, and Segmentation techniques to detect brain tumors from MRI images.
@@ -261,9 +259,8 @@ Replace `YOUR_VIDEO_ID_HERE` with the actual YouTube video ID of your project de
 Created by Arnab Manna
 ```
 
-Make sure to replace `YOUR_VIDEO_ID_HERE` in both places with the actual YouTube video ID of your project demonstration. This addition will provide a multimedia element that enhances the understanding and visibility of your Brain Tumour Detection Model within your README./0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[(README./0.jpg)](https://www.youtube.com/watch?v=zPXvp4Q6L2o&t=61s&ab_channel=Curiosity)
 
-Replace `YOUR_VIDEO_ID_HERE` with the actual YouTube video ID of your project demonstration. You can also customize the `0.jpg` portion of the URL with your preferred image URL or let YouTube generate one automatically.
 
 ## License
 
