@@ -1,5 +1,6 @@
-
 # Brain Tumour Detection Model 🧠
+
+![Brain Tumour Detection Header](https://raw.githubusercontent.com/arnab-4/BrainScan-AI/main/Screenshot%202024-07-21%20233731.png)
 
 Welcome to our Brain Tumour Detection Model developed during the AI Unite Hackathon by team nvAI! Our project utilizes Machine Learning, Computer Vision, and Segmentation techniques to detect brain tumors from MRI images.
 
@@ -29,7 +30,6 @@ Welcome to our Brain Tumour Detection Model developed during the AI Unite Hackat
     }
   ]
 }
-```
 
 ## Technologies Used
 
